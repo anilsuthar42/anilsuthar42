@@ -15,8 +15,9 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=anilsuthar42" alt="anilsuthar42"> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anilsuthar42&show_icons=true&locale=en" alt="anilsuthar42" ></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilsuthar42&show_icons=true&locale=en&layout=compact" alt="anilsuthar42" > </p>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anilsuthar42&show_icons=true&locale=en" alt="anilsuthar42" ></p>
 <!--
 **anilsuthar42/anilsuthar42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
